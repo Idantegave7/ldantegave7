@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ldantegave</h1>
+<h1 align="center">Hi 👋, I'm ldan Tegave</h1>
 <h3 align="center">Software Engineering Student | Full-Stack Developer | Problem Solver</h3>
 
 ---
