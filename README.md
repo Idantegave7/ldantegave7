@@ -46,7 +46,7 @@ I love building systems end-to-end, exploring new technologies, and constantly i
 #### **1. Attendance System (React Native + Firebase)**
 - Full mobile app for student attendance tracking  
 - Features: QR scanning, roles (student/lecturer), real-time DB  
-🔗 *[Add repo link here](https://github.com/YakirDray/CafeQueueReduce)*
+🔗 *[repo link here](https://github.com/YakirDray/CafeQueueReduce)*
 
 #### **2. Task Management App**
 - Cross-platform mobile solution for task scheduling and reminders  
@@ -58,8 +58,8 @@ I love building systems end-to-end, exploring new technologies, and constantly i
 #### **3. Library Management System**
 - Desktop software for managing books & users  
 - Includes OOP, MVC, file management, and DB integration  
-🔗 *Add repo link here*
-
+🔗 *[ repo link here](https://github.com/Nitaybenadmon123/DigitalLibrary_NBA_IT)*
+https://github.com/Nitaybenadmon123/DigitalLibrary_NBA_IT
 #### **4. Compiler Project**
 - Full compiler design: Lexical analyzer, Parser, AST, Code generation  
 🔗 https://github.com/Nitaybenadmon123/Compiler-project *(example)*
@@ -69,7 +69,7 @@ I love building systems end-to-end, exploring new technologies, and constantly i
 ### 🧠 **Python Projects**
 #### **5. AI / Machine Learning Utilities**
 - Data processing, prediction models, and Python automation scripts  
-🔗 *Add repo link here*
+🔗 *[repo link here](https://github.com/Nitaybenadmon123/Enigma)*
 
 ---
 
