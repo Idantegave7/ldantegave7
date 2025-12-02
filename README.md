@@ -11,7 +11,7 @@ I love building systems end-to-end, exploring new technologies, and constantly i
 - 💻 Experience in **React Native, Java, Python, C++, C, SQL, Node.js, MongoDB, Firebase**, and more  
 - 🤝 Participated in multiple team-based university and independent projects  
 - ✨ Passionate about mobile development, backend architecture, and cloud technologies  
-- 📫 Contact me at: **your-email@example.com**
+- 📫 Contact me at: **Idantegave777@gmail.com**
 
 ---
 
@@ -96,7 +96,7 @@ I love building systems end-to-end, exploring new technologies, and constantly i
   <a href="https://www.linkedin.com/in/idan-tegave/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:idantegave777@gmail.com">
+  <a href="idantegave777@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
