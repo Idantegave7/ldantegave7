@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ldantegave7</h1>
+<h1 align="center">Hi 👋, I'm ldantegave</h1>
 <h3 align="center">Software Engineering Student | Full-Stack Developer | Problem Solver</h3>
 
 ---
@@ -94,7 +94,7 @@ I love building systems end-to-end, exploring new technologies, and constantly i
 ## 🌐 Connect With Me
 <p>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:idantegave777@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
