@@ -46,7 +46,7 @@ I love building systems end-to-end, exploring new technologies, and constantly i
 #### **1. Attendance System (React Native + Firebase)**
 - Full mobile app for student attendance tracking  
 - Features: QR scanning, roles (student/lecturer), real-time DB  
-🔗 *Add repo link here*
+🔗 *[Add repo link here](https://github.com/YakirDray/CafeQueueReduce)*
 
 #### **2. Task Management App**
 - Cross-platform mobile solution for task scheduling and reminders  
